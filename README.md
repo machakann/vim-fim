@@ -64,3 +64,7 @@ The `fim` mapping is forked from `fim-trial06`.
 
  - Those key mappings do not abort macro execution (`:help complex-repeat`) even if the motion failed to move the cursor.
  - Those key mappings may not work well with multibyte characters.
+
+## Links
+
+[Vimのモーションについて](https://machakann.hatenablog.com/entry/2021/01/24/163734)
